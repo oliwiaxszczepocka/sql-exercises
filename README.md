@@ -10,6 +10,7 @@ products – Stores product information, including name, category, and price.
 
 Here's a code to create tables and generated data included in insert's:
 
+```sql
 CREATE TABLE customers (
     id_ NUMERIC PRIMARY KEY,
     name_ VARCHAR(50) NOT NULL,
